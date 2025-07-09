@@ -15,14 +15,14 @@
 
 
 " _g: gui, _c: cterm
-let s:light_g = '#dcdfe4'
-let s:light_c = 255
-let s:med_hi_g = '#5d677a'
-let s:med_hi_c = 243
-let s:med_lo_g = '#313640'
-let s:med_lo_c = 238
-let s:dark_g = '#282c34'
-let s:dark_c = 236
+let s:light_g = '#dadada'
+let s:light_c = 253
+let s:med_hi_g = '#585858'
+let s:med_hi_c = 240
+let s:med_lo_g = '#3a3a3a'
+let s:med_lo_c = 237
+let s:dark_g = '#262626'
+let s:dark_c = 235
 
 let s:green_g = '#98c379'
 let s:green_c = 114
