@@ -15,8 +15,8 @@
 
 
 " _g: gui, _c: cterm
-let s:light_g = '#dadada'
-let s:light_c = 253
+let s:light_g = '#d0d0d0'
+let s:light_c = 252
 let s:med_hi_g = '#585858'
 let s:med_hi_c = 240
 let s:med_lo_g = '#3a3a3a'
