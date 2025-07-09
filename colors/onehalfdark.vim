@@ -24,21 +24,21 @@ let s:yellow      = { "gui": "#e5c07b", "cterm": "180" }
 let s:blue        = { "gui": "#61afef", "cterm": "75"  }
 let s:purple      = { "gui": "#c678dd", "cterm": "176" }
 let s:cyan        = { "gui": "#56b6c2", "cterm": "73"  }
-let s:white       = { "gui": "#dcdfe4", "cterm": "188" }
+let s:white       = { "gui": "#d0d0d0", "cterm": "252" }
 
 let s:fg          = s:white
 let s:bg          = s:black
 
-let s:comment_fg  = { "gui": "#5c6370", "cterm": "241" }
-let s:gutter_bg   = { "gui": "#282c34", "cterm": "236" }
-let s:gutter_fg   = { "gui": "#919baa", "cterm": "247" }
-let s:non_text    = { "gui": "#373C45", "cterm": "239" }
+let s:comment_fg  = { "gui": "#585858", "cterm": "240" }
+let s:gutter_bg   = { "gui": "#262626", "cterm": "235" }
+let s:gutter_fg   = { "gui": "#9e9e9e", "cterm": "247" }
+let s:non_text    = { "gui": "#4e4e4e", "cterm": "239" }
 
-let s:cursor_line = { "gui": "#313640", "cterm": "237" }
-let s:color_col   = { "gui": "#313640", "cterm": "237" }
+let s:cursor_line = { "gui": "#3a3a3a", "cterm": "237" }
+let s:color_col   = { "gui": "#3a3a3a", "cterm": "237" }
 
-let s:selection   = { "gui": "#474e5d", "cterm": "239" }
-let s:vertsplit   = { "gui": "#313640", "cterm": "237" }
+let s:selection   = { "gui": "#4e4e4e", "cterm": "239" }
+let s:vertsplit   = { "gui": "#3a3a3a", "cterm": "237" }
 
 
 function! s:h(group, fg, bg, attr)
